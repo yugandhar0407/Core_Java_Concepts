@@ -9,7 +9,7 @@
 		time instead of runtime and we can create custom exceptions making the code recovery and debugging easier.
 		
 		In Java an Exception is an event that distrupts the normal flow of the program.
-		It is an object which is thrown ar runtime.
+		It is an object which is thrown at runtime.
 		
 		Exception Handling is a mechanism to handle runtime errors such as ClassNotFound Exception,
 		IOException, SQL Exception, Remote Exception etc,.

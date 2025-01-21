@@ -42,7 +42,7 @@
 			because both threads are getting execute simultaneously.
 			
 	2. Synchronized Block
-			The Synchronized block is the basic synchronization for a certain cose that needs to be synchronized.
+			The Synchronized block is the basic synchronization for a certain code that needs to be synchronized.
 			It means that there might be code where no nned for synchronization, then due to applying the synchronized
 			method that the execution of the program is slowed down.
 			Suppose we have 50 lines of code in our method, but we want to synchronize only 5 lines,

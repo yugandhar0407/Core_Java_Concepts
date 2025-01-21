@@ -9,7 +9,7 @@
 			A process of executing multiple threads simultaneously is known as Multithreading.
 			Multiprocessing and multithreading, both are used to achieve multitasking.
 			We use multithreading than multiprocessing because threads use a shared memory area.
-			Java Multithreading is mostly used in games, animation.
+			Java Multithreading is mostly used in games, animation. 
 			
 	Advantages
 			Doesn't block the user
@@ -43,7 +43,7 @@
 			
 	2. Synchronized Block
 			The Synchronized block is the basic synchronization for a certain code that needs to be synchronized.
-			It means that there might be code where no nned for synchronization, then due to applying the synchronized
+			It means that there might be code where no need for synchronization, then due to applying the synchronized
 			method that the execution of the program is slowed down.
 			Suppose we have 50 lines of code in our method, but we want to synchronize only 5 lines,
 			in such cases, we can usee synchronized block.

@@ -54,7 +54,9 @@
 						* throw
 						* throws
 						
-	Try: 
+	Try: 		In Java, the try keyword is used to define a block of code that may throw an exception. The try block is the first step in constructing an exception handler.
+			The try block contains code that may throw an exception. 
+			If an exception occurs in the try block, the catch block handles it.
 	
 	Finally:
 			The finally block is the block that always gets executed no matter the program throws an exeception

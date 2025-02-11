@@ -32,7 +32,7 @@ Writing Data into Files
 	The file writing includes the use of Buffered Writer and file writer in order to write any statement into the file.
 	To write the content into the file we must use "Buffered writer". 
 	This is used to write single arrays, characters, and Strings.
-	Filewriter is also a convenient class for writing text files files using the default character encoding of the operating system.
+	Filewriter is also a convenient class for writing text files using the default character encoding of the operating system.
 	
 Reading Files 
 	This deals with reading the statements from the file. It also follows the same procedure and the import of the some
@@ -46,7 +46,7 @@ Reading Files with Scanner
 File Deletion
 	This is done by a simple command of file.delete() method.
 	The java File delete() method can be used to delete files, it will return a boolean value.
-	It returns true if the file it deleted, false if failed.
+	It returns true if the file is deleted, false if failed.
 
 Serialization of Objects
 	Serialization of objects is the conversion of a java object into a static stream(sequence) of bytes which can then be saved to a databases or

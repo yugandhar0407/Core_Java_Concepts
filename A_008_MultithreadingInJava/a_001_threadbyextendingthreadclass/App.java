@@ -20,7 +20,7 @@ class MyCounter extends Thread {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-			System.out.println("The value of i is: " + i + " and the thread mo is: " + threadNo);
+			System.out.println("The value of i is: " + i + " and the thread no is: " + threadNo);
 		}
 	}
 }

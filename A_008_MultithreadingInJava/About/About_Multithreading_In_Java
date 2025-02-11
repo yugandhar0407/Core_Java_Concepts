@@ -1,6 +1,6 @@
 											MultiThreading
 	Thread
-			A Thread is a mini process within a process that can execute or perform operations independently.
+			A Thread is a mini process that can execute or perform operations independently.
 			A Thread is a lightweight process, the smallest unit of processing.
 			Threads perform a single task that belongs to a single process.
 			Thread is controlled by java.lang.Thread class.
@@ -47,7 +47,7 @@
 			method that the execution of the program is slowed down.
 			Suppose we have 50 lines of code in our method, but we want to synchronize only 5 lines,
 			in such cases, we can usee synchronized block.
-			It is more efficient than synchronized block.
+			It is more efficient than synchronized method.
 			
 	3. Static Synchronization
 			The concept of static synchronized is the issue regarding the inconsistency caused due to the multiple
@@ -60,7 +60,7 @@
 			
 	Volatile keyword
 			The usage of volatile keyword is used to declare the variables that will be modified by different threads.
-			All changes in the variable will be directly wwritten back to the memory.
+			All changes in the variable will be directly written back to the memory.
 			This keywod can't be applied to class or method. It can only be used with a variable.
 			When the thread is dependent on the variable always use the volatile keyword.
 			It means this variable will not be cached by the thread.

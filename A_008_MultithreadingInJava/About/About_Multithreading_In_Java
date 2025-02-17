@@ -116,7 +116,13 @@
 			nor can be acquired therefore this brings the processing to a complete halt.
 			
 	
-	
+	Thread Life Cycle;
+				0. New
+				1. Running
+				2. Blocked
+				3. Waiting(Join)
+				4. Waiting(specific time/sleep)
+				5. Teminated
 	
 	
 	
